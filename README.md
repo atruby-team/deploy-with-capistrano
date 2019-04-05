@@ -1,6 +1,7 @@
 ### Config Auto Deploy with Capistrano
 
 Author: Kien Nguyen T.
+
 Email: ntkien92@gmail.com
 
 ##### Step 1
